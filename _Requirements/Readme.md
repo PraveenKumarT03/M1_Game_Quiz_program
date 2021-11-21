@@ -6,13 +6,19 @@ It is good for students of every age group it helps in increasing general knowle
 Don't need register simply give any user name and it will saved automatically and you can login again with same user name and don’t have to worry about the past score.
 It will helps the user to increase his/her knowledge. 
 
-4 W's and 1 H
-Who - Users who need to particepate in game to develope knowledge 
+4W's and 1H
 
-What - it will give digital way of game
+Who
+Any user who are intersted can take the quiz and enjoy the quiz.
 
-When - During the quiz game game organization 
+What
+The project is main aim is to anyone participate in the quiz.
 
-Where -In the Event of N number of participate 
+When
+Students are actively participate because the quiz is based on c language.
 
-How - is to facilitate a user friendly environment for all users andreduces the manual effort
+Why
+The project is mainly about students to get more knowledge on c.
+
+How
+The user can take the quiz by entering his name
