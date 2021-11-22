@@ -6,7 +6,7 @@ It is good for students of every age group it helps in increasing general knowle
 Don't need register simply give any user name and it will saved automatically and you can login again with same user name and don’t have to worry about the past score.
 It will helps the user to increase his/her knowledge. 
 
-4W's and 1H
+4W's and 1H:
 
 Who
 Any user who are intersted can take the quiz and enjoy the quiz.
