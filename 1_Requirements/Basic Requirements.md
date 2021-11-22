@@ -1,6 +1,6 @@
-SOFTWARE and HARDWARE REQUIREMENTS 
+SOFTWARE and HARDWARE REQUIREMENTS :
 Following hardware specifications and software are required to run this project:  
-This Application is Developed in C Technology.
+This Application is Developed in C Technology:
 
 1)	Operating System: WINDOWS 10
 	 
