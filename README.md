@@ -1,6 +1,6 @@
 # M1_Game_Quiz_program
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b533746e2c324a2bb710df5956ac098c)](https://www.codacy.com/gh/PraveenKumarT03/M1_Game_Quiz_program/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PraveenKumarT03/M1_Game_Quiz_program&amp;utm_campaign=Badge_Grade)
-![code Inspector](https://api.codiga.io/project/29906/score/svg)
+
 
 [![Git Inspector](https://github.com/PraveenKumarT03/M1_Game_Quiz_program/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/PraveenKumarT03/M1_Game_Quiz_program/actions/workflows/Git_inspector.yml) [![cppcheck-action](https://github.com/PraveenKumarT03/M1_Game_Quiz_program/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PraveenKumarT03/M1_Game_Quiz_program/actions/workflows/cppcheck.yml)
 
